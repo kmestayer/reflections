@@ -12,3 +12,7 @@ Only commit the files that you updated.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to make major changes to a project and not mess up the master branch.
 
+How do the diagrams help you visualize the branch structure?
+It shows where and how branches come off of the master.
+
+
