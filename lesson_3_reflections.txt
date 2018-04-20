@@ -29,4 +29,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You don't want to mess up the master. Also when others are making changes at the 
+    same time you can merge to the master when you are done instead of messing up the master
+    and getting changes mixed up and merged incorrectly.
